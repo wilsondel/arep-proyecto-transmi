@@ -1,4 +1,4 @@
-# Uso de IA para el an´alisis de movimiento corporal de los usuarios de Transmilenio
+# Uso de IA para el análisis de movimiento corporal de los usuarios de Transmilenio
 
 
 
